@@ -1,2 +1,4 @@
 Added in Windows
 Added in Linux
+def sayhi():
+    print('Hello World')
